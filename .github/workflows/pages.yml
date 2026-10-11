@@ -1,0 +1,75 @@
+name: Refresh data and deploy Pages
+
+on:
+  push:
+    branches: [main, master]
+    paths-ignore: ['README.md', 'LICENSE']
+  schedule:
+    # UTC 00:17, 04:17, ... = 北京时间 08:17, 12:17, ...
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: index-quota-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate collector and frontend logic
+        run: |
+          python -m unittest discover -s tests -p 'test_*.py' -v
+          node --test tests/core.test.js
+      - name: Collect public fund rules
+        id: collect
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        run: python scripts/update_data.py
+      - name: Persist snapshots and collection health
+        if: steps.collect.outcome == 'success' || steps.collect.outcome == 'failure'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/funds.json data/changes.json data/health.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh public fund disclosures'
+            git push
+          fi
+      - name: Validate published snapshot
+        run: node --test tests/core.test.js
+      - name: Build static site
+        run: python scripts/build_site.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Record collection outcome
+        if: steps.collect.outcome == 'failure'
+        run: echo '::warning::Upstream collection failed. Publishing the last valid snapshot with a visible health warning.'
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

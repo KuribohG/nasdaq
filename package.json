@@ -1,0 +1,14 @@
+{
+  "name": "index-quota",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "纳斯达克、标普500基金申购限额与定投状态看板",
+  "scripts": {
+    "test": "node --test tests/core.test.js",
+    "dev": "python3 -m http.server 8000",
+    "update": "python3 scripts/update_data.py",
+    "build": "python3 scripts/build_site.py"
+  },
+  "engines": { "node": ">=20" }
+}
