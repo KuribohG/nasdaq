@@ -1,5 +1,86 @@
 {
-  "updated_at": "2026-10-12T06:09:16+00:00",
+  "updated_at": "2026-10-12T18:02:34+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
-  "changes": []
+  "changes": [
+    {
+      "code": "006479",
+      "name": "广发纳斯达克100ETF联接人民币(QDII)C",
+      "company": "广发基金",
+      "at": "2026-10-12T18:00:48+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "paused",
+          "after": "limited"
+        },
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 2.0,
+            "raw": "2.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          }
+        },
+        "sip_status": {
+          "before": "unsupported",
+          "after": "available"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 2.0,
+            "raw": "2.00元"
+          }
+        }
+      }
+    },
+    {
+      "code": "270042",
+      "name": "广发纳斯达克100ETF联接人民币(QDII)A",
+      "company": "广发基金",
+      "at": "2026-10-12T18:00:48+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "paused",
+          "after": "limited"
+        },
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 2.0,
+            "raw": "2.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          }
+        },
+        "sip_status": {
+          "before": "unsupported",
+          "after": "available"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 2.0,
+            "raw": "2.00元"
+          }
+        }
+      }
+    }
+  ]
 }
