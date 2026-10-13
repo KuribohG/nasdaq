@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-13T11:54:51+00:00",
+  "updated_at": "2026-10-13T19:22:20+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
   "changes": [
+    {
+      "code": "019547",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)A",
+      "company": "招商基金",
+      "at": "2026-10-13T19:21:02+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019548",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)C",
+      "company": "招商基金",
+      "at": "2026-10-13T19:21:02+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
     {
       "code": "006479",
       "name": "广发纳斯达克100ETF联接人民币(QDII)C",
