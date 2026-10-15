@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-10-15T04:51:19+00:00",
+  "updated_at": "2026-10-15T13:33:58+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
   "changes": [
+    {
+      "code": "008401",
+      "name": "大成标普500等权重指数(QDII)C人民币",
+      "company": "大成基金",
+      "at": "2026-10-15T13:30:45+00:00",
+      "changes": {
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 100.0,
+            "raw": "100.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 50.0,
+            "raw": "50.00元"
+          }
+        }
+      }
+    },
+    {
+      "code": "096001",
+      "name": "大成标普500等权重指数(QDII)A人民币",
+      "company": "大成基金",
+      "at": "2026-10-15T13:30:45+00:00",
+      "changes": {
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 100.0,
+            "raw": "100.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 50.0,
+            "raw": "50.00元"
+          }
+        }
+      }
+    },
     {
       "code": "006479",
       "name": "广发纳斯达克100ETF联接人民币(QDII)C",
