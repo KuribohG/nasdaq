@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T23:14:51+00:00",
-  "started_at": "2026-10-20T23:13:42+00:00",
+  "generated_at": "2026-10-21T05:01:40+00:00",
+  "started_at": "2026-10-21T04:58:29+00:00",
   "source": "天天基金",
   "catalog_url": "https://fund.eastmoney.com/js/fundcode_search.js",
-  "catalog_total": 28106,
+  "catalog_total": 28136,
   "schedule_hours": 4,
   "stale_after_hours": 12,
   "scope": "公开目录中名称含纳斯达克、纳指或标普500的境内公募基金；份额分别统计；其他纳斯达克及标普500等权产品单独分类。",
@@ -62,12 +62,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_000055.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_000055.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_000055.html",
-      "checked_at": "2026-10-20T23:13:45+00:00",
+      "checked_at": "2026-10-21T04:58:32+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "774fc9c972dfd81e"
+      "evidence_hash": "37857ff05151f45e"
     },
     {
       "code": "000834",
@@ -115,7 +115,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_000834.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_000834.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_000834.html",
-      "checked_at": "2026-10-20T23:13:45+00:00",
+      "checked_at": "2026-10-21T04:58:32+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -168,7 +168,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_003718.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_003718.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_003718.html",
-      "checked_at": "2026-10-20T23:13:45+00:00",
+      "checked_at": "2026-10-21T04:58:32+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -221,12 +221,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_003722.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_003722.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_003722.html",
-      "checked_at": "2026-10-20T23:13:45+00:00",
+      "checked_at": "2026-10-21T04:58:32+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "b65eaf4f226dda97"
+      "evidence_hash": "1c8a3ef3cdd95af5"
     },
     {
       "code": "006075",
@@ -274,7 +274,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_006075.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_006075.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_006075.html",
-      "checked_at": "2026-10-20T23:13:48+00:00",
+      "checked_at": "2026-10-21T04:58:34+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -327,7 +327,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_006479.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_006479.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_006479.html",
-      "checked_at": "2026-10-20T23:13:48+00:00",
+      "checked_at": "2026-10-21T04:58:34+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -380,12 +380,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_006480.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_006480.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_006480.html",
-      "checked_at": "2026-10-20T23:13:48+00:00",
+      "checked_at": "2026-10-21T04:58:34+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "32863f9f46544b26"
+      "evidence_hash": "6bf01f27ab5b62b0"
     },
     {
       "code": "007721",
@@ -433,7 +433,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_007721.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_007721.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_007721.html",
-      "checked_at": "2026-10-20T23:13:48+00:00",
+      "checked_at": "2026-10-21T04:58:34+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -486,7 +486,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_007722.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_007722.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_007722.html",
-      "checked_at": "2026-10-20T23:13:50+00:00",
+      "checked_at": "2026-10-21T04:58:36+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -539,12 +539,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_008401.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_008401.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_008401.html",
-      "checked_at": "2026-10-20T23:13:50+00:00",
+      "checked_at": "2026-10-21T04:58:36+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "db6346fa792a0c63"
+      "evidence_hash": "24136419deed817f"
     },
     {
       "code": "008971",
@@ -592,7 +592,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_008971.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_008971.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_008971.html",
-      "checked_at": "2026-10-20T23:13:50+00:00",
+      "checked_at": "2026-10-21T04:58:37+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -645,7 +645,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_012751.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_012751.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_012751.html",
-      "checked_at": "2026-10-20T23:13:50+00:00",
+      "checked_at": "2026-10-21T04:58:36+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -698,7 +698,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_012752.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_012752.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_012752.html",
-      "checked_at": "2026-10-20T23:13:52+00:00",
+      "checked_at": "2026-10-21T04:58:39+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -751,7 +751,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_012753.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_012753.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_012753.html",
-      "checked_at": "2026-10-20T23:13:52+00:00",
+      "checked_at": "2026-10-21T04:58:39+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -804,7 +804,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_012860.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_012860.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_012860.html",
-      "checked_at": "2026-10-20T23:13:52+00:00",
+      "checked_at": "2026-10-21T04:58:38+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -857,12 +857,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_012861.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_012861.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_012861.html",
-      "checked_at": "2026-10-20T23:13:53+00:00",
+      "checked_at": "2026-10-21T04:58:39+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "9d2d0fe17c752978"
+      "evidence_hash": "633672f5f67d2be3"
     },
     {
       "code": "012870",
@@ -910,12 +910,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_012870.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_012870.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_012870.html",
-      "checked_at": "2026-10-20T23:13:54+00:00",
+      "checked_at": "2026-10-21T04:58:40+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "e22a4cb8cb43eeb7"
+      "evidence_hash": "c3ce92861ce0b0fd"
     },
     {
       "code": "012871",
@@ -963,7 +963,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_012871.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_012871.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_012871.html",
-      "checked_at": "2026-10-20T23:13:54+00:00",
+      "checked_at": "2026-10-21T04:58:41+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1016,12 +1016,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_013404.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_013404.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_013404.html",
-      "checked_at": "2026-10-20T23:13:55+00:00",
+      "checked_at": "2026-10-21T04:58:41+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "19c87f275ce198d2"
+      "evidence_hash": "8cb0e0a8f5f59440"
     },
     {
       "code": "013425",
@@ -1069,7 +1069,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_013425.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_013425.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_013425.html",
-      "checked_at": "2026-10-20T23:13:55+00:00",
+      "checked_at": "2026-10-21T04:59:07+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1122,7 +1122,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_013499.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_013499.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_013499.html",
-      "checked_at": "2026-10-20T23:13:57+00:00",
+      "checked_at": "2026-10-21T04:58:43+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1175,12 +1175,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_014978.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_014978.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_014978.html",
-      "checked_at": "2026-10-20T23:13:57+00:00",
+      "checked_at": "2026-10-21T04:59:09+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "b29d0625b8b9c142"
+      "evidence_hash": "1c1b6676b1a9c99d"
     },
     {
       "code": "015299",
@@ -1228,7 +1228,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_015299.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_015299.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_015299.html",
-      "checked_at": "2026-10-20T23:13:57+00:00",
+      "checked_at": "2026-10-21T04:58:43+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1281,7 +1281,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_015300.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_015300.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_015300.html",
-      "checked_at": "2026-10-20T23:13:57+00:00",
+      "checked_at": "2026-10-21T04:59:11+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1334,12 +1334,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_015518.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_015518.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_015518.html",
-      "checked_at": "2026-10-20T23:13:59+00:00",
+      "checked_at": "2026-10-21T04:59:11+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "b26b58eba1743fc1"
+      "evidence_hash": "655cbc644a83996b"
     },
     {
       "code": "015545",
@@ -1387,7 +1387,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_015545.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_015545.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_015545.html",
-      "checked_at": "2026-10-20T23:13:59+00:00",
+      "checked_at": "2026-10-21T04:59:35+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1440,7 +1440,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016055.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016055.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016055.html",
-      "checked_at": "2026-10-20T23:13:59+00:00",
+      "checked_at": "2026-10-21T04:59:11+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1493,12 +1493,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016056.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016056.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016056.html",
-      "checked_at": "2026-10-20T23:14:00+00:00",
+      "checked_at": "2026-10-21T04:59:13+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "e76d4d6ac6073a01"
+      "evidence_hash": "585e2763f4b94bcd"
     },
     {
       "code": "016057",
@@ -1546,7 +1546,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016057.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016057.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016057.html",
-      "checked_at": "2026-10-20T23:14:01+00:00",
+      "checked_at": "2026-10-21T04:59:13+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1599,7 +1599,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016058.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016058.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016058.html",
-      "checked_at": "2026-10-20T23:14:02+00:00",
+      "checked_at": "2026-10-21T04:59:13+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1652,12 +1652,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016452.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016452.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016452.html",
-      "checked_at": "2026-10-20T23:14:01+00:00",
+      "checked_at": "2026-10-21T04:59:15+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "66346e01cd9f8a58"
+      "evidence_hash": "ddba9cb03486cc10"
     },
     {
       "code": "016453",
@@ -1705,12 +1705,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016453.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016453.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016453.html",
-      "checked_at": "2026-10-20T23:14:02+00:00",
+      "checked_at": "2026-10-21T04:59:15+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "4bf531ab5a6f7bd2"
+      "evidence_hash": "b50c6b2358cafeb9"
     },
     {
       "code": "016532",
@@ -1758,7 +1758,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016532.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016532.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016532.html",
-      "checked_at": "2026-10-20T23:14:03+00:00",
+      "checked_at": "2026-10-21T04:59:16+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1811,7 +1811,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016533.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016533.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016533.html",
-      "checked_at": "2026-10-20T23:14:04+00:00",
+      "checked_at": "2026-10-21T04:59:17+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -1864,12 +1864,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016534.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016534.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016534.html",
-      "checked_at": "2026-10-20T23:14:04+00:00",
+      "checked_at": "2026-10-21T04:59:18+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "816a39a606fe611d"
+      "evidence_hash": "9e741e82dc01c426"
     },
     {
       "code": "016535",
@@ -1917,12 +1917,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_016535.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_016535.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_016535.html",
-      "checked_at": "2026-10-20T23:14:04+00:00",
+      "checked_at": "2026-10-21T04:59:18+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "5545b9a3f9d6cf13"
+      "evidence_hash": "7808eca7cb386c29"
     },
     {
       "code": "017028",
@@ -1970,12 +1970,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017028.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017028.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017028.html",
-      "checked_at": "2026-10-20T23:14:06+00:00",
+      "checked_at": "2026-10-21T04:59:46+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "3833f86a33d41462"
+      "evidence_hash": "496b63d268f961c4"
     },
     {
       "code": "017030",
@@ -2023,7 +2023,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017030.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017030.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017030.html",
-      "checked_at": "2026-10-20T23:14:06+00:00",
+      "checked_at": "2026-10-21T04:59:20+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2076,7 +2076,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017091.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017091.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017091.html",
-      "checked_at": "2026-10-20T23:14:07+00:00",
+      "checked_at": "2026-10-21T04:59:20+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2129,12 +2129,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017092.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017092.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017092.html",
-      "checked_at": "2026-10-20T23:14:07+00:00",
+      "checked_at": "2026-10-21T04:59:22+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "f508cdb494c23310"
+      "evidence_hash": "b99ceb909ed9d64e"
     },
     {
       "code": "017093",
@@ -2182,12 +2182,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017093.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017093.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017093.html",
-      "checked_at": "2026-10-20T23:14:08+00:00",
+      "checked_at": "2026-10-21T04:59:22+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "bea1fe39e1505ad8"
+      "evidence_hash": "e550262ba9bca167"
     },
     {
       "code": "017436",
@@ -2235,7 +2235,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017436.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017436.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017436.html",
-      "checked_at": "2026-10-20T23:14:09+00:00",
+      "checked_at": "2026-10-21T04:59:24+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2288,7 +2288,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017437.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017437.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017437.html",
-      "checked_at": "2026-10-20T23:14:09+00:00",
+      "checked_at": "2026-10-21T04:59:24+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2341,7 +2341,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017641.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017641.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017641.html",
-      "checked_at": "2026-10-20T23:14:09+00:00",
+      "checked_at": "2026-10-21T04:59:52+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2394,7 +2394,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017642.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017642.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017642.html",
-      "checked_at": "2026-10-20T23:14:10+00:00",
+      "checked_at": "2026-10-21T04:59:26+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2447,12 +2447,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017643.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017643.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017643.html",
-      "checked_at": "2026-10-20T23:14:11+00:00",
+      "checked_at": "2026-10-21T04:59:28+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "7fe2fe6893db2a0b"
+      "evidence_hash": "4d0af41e6c7ee8df"
     },
     {
       "code": "017894",
@@ -2500,12 +2500,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017894.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017894.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017894.html",
-      "checked_at": "2026-10-20T23:14:11+00:00",
+      "checked_at": "2026-10-21T04:59:30+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "6e59cbbebc8fc9b1"
+      "evidence_hash": "a554618afc908725"
     },
     {
       "code": "017895",
@@ -2553,7 +2553,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017895.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017895.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017895.html",
-      "checked_at": "2026-10-20T23:14:12+00:00",
+      "checked_at": "2026-10-21T04:59:33+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2606,7 +2606,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017951.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017951.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017951.html",
-      "checked_at": "2026-10-20T23:14:13+00:00",
+      "checked_at": "2026-10-21T05:00:02+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2659,7 +2659,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_017952.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_017952.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_017952.html",
-      "checked_at": "2026-10-20T23:14:13+00:00",
+      "checked_at": "2026-10-21T05:00:04+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2712,7 +2712,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018043.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018043.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018043.html",
-      "checked_at": "2026-10-20T23:14:14+00:00",
+      "checked_at": "2026-10-21T04:59:48+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2765,12 +2765,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018044.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018044.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018044.html",
-      "checked_at": "2026-10-20T23:14:14+00:00",
+      "checked_at": "2026-10-21T04:59:50+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "62ed6ee779373643"
+      "evidence_hash": "754a87cf8e1094df"
     },
     {
       "code": "018064",
@@ -2818,12 +2818,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018064.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018064.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018064.html",
-      "checked_at": "2026-10-20T23:14:15+00:00",
+      "checked_at": "2026-10-21T04:59:52+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "c2ed7447ee5b1aae"
+      "evidence_hash": "d9893fdb2a1cc9cb"
     },
     {
       "code": "018065",
@@ -2871,7 +2871,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018065.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018065.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018065.html",
-      "checked_at": "2026-10-20T23:14:16+00:00",
+      "checked_at": "2026-10-21T04:59:54+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -2924,12 +2924,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018066.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018066.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018066.html",
-      "checked_at": "2026-10-20T23:14:16+00:00",
+      "checked_at": "2026-10-21T04:59:55+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "78208f499f20b7a0"
+      "evidence_hash": "d42a1f7ac7391247"
     },
     {
       "code": "018738",
@@ -2977,12 +2977,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018738.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018738.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018738.html",
-      "checked_at": "2026-10-20T23:14:16+00:00",
+      "checked_at": "2026-10-21T04:59:57+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "fb974754eabe4e12"
+      "evidence_hash": "f43a34bd26b20ada"
     },
     {
       "code": "018966",
@@ -3030,12 +3030,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018966.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018966.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018966.html",
-      "checked_at": "2026-10-20T23:14:18+00:00",
+      "checked_at": "2026-10-21T04:59:57+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "d65f9b9822ac1e64"
+      "evidence_hash": "fe3b0afeca597ca2"
     },
     {
       "code": "018967",
@@ -3083,7 +3083,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018967.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018967.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018967.html",
-      "checked_at": "2026-10-20T23:14:18+00:00",
+      "checked_at": "2026-10-21T04:59:59+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3136,7 +3136,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018968.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018968.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018968.html",
-      "checked_at": "2026-10-20T23:14:18+00:00",
+      "checked_at": "2026-10-21T05:00:25+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3189,12 +3189,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_018969.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_018969.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_018969.html",
-      "checked_at": "2026-10-20T23:14:19+00:00",
+      "checked_at": "2026-10-21T05:00:01+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "448de97f397d9f90"
+      "evidence_hash": "d7320273ebdf9d9c"
     },
     {
       "code": "019118",
@@ -3242,7 +3242,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019118.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019118.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019118.html",
-      "checked_at": "2026-10-20T23:14:20+00:00",
+      "checked_at": "2026-10-21T05:00:03+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3295,7 +3295,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019172.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019172.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019172.html",
-      "checked_at": "2026-10-20T23:14:20+00:00",
+      "checked_at": "2026-10-21T05:00:04+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3348,7 +3348,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019173.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019173.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019173.html",
-      "checked_at": "2026-10-20T23:14:20+00:00",
+      "checked_at": "2026-10-21T05:00:05+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3401,7 +3401,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019174.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019174.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019174.html",
-      "checked_at": "2026-10-20T23:14:21+00:00",
+      "checked_at": "2026-10-21T05:00:06+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3454,7 +3454,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019175.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019175.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019175.html",
-      "checked_at": "2026-10-20T23:14:22+00:00",
+      "checked_at": "2026-10-21T05:00:06+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3507,7 +3507,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019305.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019305.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019305.html",
-      "checked_at": "2026-10-20T23:14:23+00:00",
+      "checked_at": "2026-10-21T05:00:08+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3530,8 +3530,8 @@
       "venue": "otc",
       "channel": "天天基金",
       "sold_by_source": true,
-      "purchase_status": "paused",
-      "purchase_status_raw": "暂停申购",
+      "purchase_status": "limited",
+      "purchase_status_raw": "限大额",
       "purchase_limit": {
         "kind": "amount",
         "value": 5.0,
@@ -3539,15 +3539,15 @@
       },
       "purchase_min": {
         "kind": "amount",
-        "value": 10.0,
-        "raw": "10.00元"
+        "value": 5.0,
+        "raw": "5.00元"
       },
       "sip_status": "available",
       "sip_status_raw": "支持",
       "sip_min": {
         "kind": "amount",
-        "value": 10.0,
-        "raw": "10.00元"
+        "value": 5.0,
+        "raw": "5.00元"
       },
       "sip_limit": {
         "kind": "unknown",
@@ -3560,12 +3560,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019441.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019441.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019441.html",
-      "checked_at": "2026-10-20T23:14:23+00:00",
+      "checked_at": "2026-10-21T05:00:08+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "41c4486003a9d219"
+      "evidence_hash": "8932b58993b853c2"
     },
     {
       "code": "019442",
@@ -3583,8 +3583,8 @@
       "venue": "otc",
       "channel": "天天基金",
       "sold_by_source": true,
-      "purchase_status": "paused",
-      "purchase_status_raw": "暂停申购",
+      "purchase_status": "limited",
+      "purchase_status_raw": "限大额",
       "purchase_limit": {
         "kind": "amount",
         "value": 5.0,
@@ -3592,15 +3592,15 @@
       },
       "purchase_min": {
         "kind": "amount",
-        "value": 10.0,
-        "raw": "10.00元"
+        "value": 5.0,
+        "raw": "5.00元"
       },
       "sip_status": "available",
       "sip_status_raw": "支持",
       "sip_min": {
         "kind": "amount",
-        "value": 10.0,
-        "raw": "10.00元"
+        "value": 5.0,
+        "raw": "5.00元"
       },
       "sip_limit": {
         "kind": "unknown",
@@ -3613,12 +3613,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019442.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019442.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019442.html",
-      "checked_at": "2026-10-20T23:14:23+00:00",
+      "checked_at": "2026-10-21T05:00:34+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "287a53f4bbb73b30"
+      "evidence_hash": "dd2ab9607cc78841"
     },
     {
       "code": "019524",
@@ -3666,12 +3666,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019524.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019524.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019524.html",
-      "checked_at": "2026-10-20T23:14:25+00:00",
+      "checked_at": "2026-10-21T05:00:10+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "7693c9cde84ee5f8"
+      "evidence_hash": "58cda6a845372caf"
     },
     {
       "code": "019525",
@@ -3719,12 +3719,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019525.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019525.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019525.html",
-      "checked_at": "2026-10-20T23:14:25+00:00",
+      "checked_at": "2026-10-21T05:00:10+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "54682fca83603ad3"
+      "evidence_hash": "b01119ecda870c8f"
     },
     {
       "code": "019547",
@@ -3772,7 +3772,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019547.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019547.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019547.html",
-      "checked_at": "2026-10-20T23:14:25+00:00",
+      "checked_at": "2026-10-21T05:00:12+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3825,7 +3825,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019548.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019548.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019548.html",
-      "checked_at": "2026-10-20T23:14:25+00:00",
+      "checked_at": "2026-10-21T05:00:13+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -3878,12 +3878,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019736.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019736.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019736.html",
-      "checked_at": "2026-10-20T23:14:27+00:00",
+      "checked_at": "2026-10-21T05:00:15+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "f1343d6da91df864"
+      "evidence_hash": "06c3e930e39c1643"
     },
     {
       "code": "019737",
@@ -3931,12 +3931,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019737.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019737.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019737.html",
-      "checked_at": "2026-10-20T23:14:27+00:00",
+      "checked_at": "2026-10-21T05:00:15+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "4f7d7de9e339b7e8"
+      "evidence_hash": "017412bd6cd33f23"
     },
     {
       "code": "019738",
@@ -3984,7 +3984,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019738.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019738.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019738.html",
-      "checked_at": "2026-10-20T23:14:27+00:00",
+      "checked_at": "2026-10-21T05:00:17+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4037,7 +4037,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_019739.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_019739.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_019739.html",
-      "checked_at": "2026-10-20T23:14:28+00:00",
+      "checked_at": "2026-10-21T05:00:17+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4090,7 +4090,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_021000.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_021000.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_021000.html",
-      "checked_at": "2026-10-20T23:14:29+00:00",
+      "checked_at": "2026-10-21T05:00:19+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4143,12 +4143,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_021773.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_021773.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_021773.html",
-      "checked_at": "2026-10-20T23:14:29+00:00",
+      "checked_at": "2026-10-21T05:00:19+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "fa51f5a8fa104f71"
+      "evidence_hash": "1432e4d0720c53c7"
     },
     {
       "code": "021778",
@@ -4196,7 +4196,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_021778.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_021778.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_021778.html",
-      "checked_at": "2026-10-20T23:14:30+00:00",
+      "checked_at": "2026-10-21T05:00:47+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4249,12 +4249,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_021838.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_021838.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_021838.html",
-      "checked_at": "2026-10-20T23:14:30+00:00",
+      "checked_at": "2026-10-21T05:00:22+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "673ffd007b7e0c60"
+      "evidence_hash": "e4c38a908b0377d0"
     },
     {
       "code": "022523",
@@ -4302,12 +4302,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_022523.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_022523.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_022523.html",
-      "checked_at": "2026-10-20T23:14:32+00:00",
+      "checked_at": "2026-10-21T05:00:24+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "f7361f26dc71b5b0"
+      "evidence_hash": "ff7d0f8a9dfbe42f"
     },
     {
       "code": "022525",
@@ -4355,12 +4355,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_022525.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_022525.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_022525.html",
-      "checked_at": "2026-10-20T23:14:32+00:00",
+      "checked_at": "2026-10-21T05:00:26+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "6efd7220ad43d2c6"
+      "evidence_hash": "a0cd182ca39b6746"
     },
     {
       "code": "022664",
@@ -4408,12 +4408,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_022664.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_022664.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_022664.html",
-      "checked_at": "2026-10-20T23:14:32+00:00",
+      "checked_at": "2026-10-21T05:00:27+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "e2dfb7f1fee47c27"
+      "evidence_hash": "b46c9a5a637b35c1"
     },
     {
       "code": "023422",
@@ -4461,12 +4461,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_023422.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_023422.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_023422.html",
-      "checked_at": "2026-10-20T23:14:32+00:00",
+      "checked_at": "2026-10-21T05:00:28+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "e19e8d5fed963611"
+      "evidence_hash": "dc3acafc29dafb38"
     },
     {
       "code": "024237",
@@ -4514,12 +4514,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_024237.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_024237.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_024237.html",
-      "checked_at": "2026-10-20T23:14:34+00:00",
+      "checked_at": "2026-10-21T05:00:29+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "3cdf2434a29c2fbc"
+      "evidence_hash": "0d5af1a7fa8ac4f9"
     },
     {
       "code": "040046",
@@ -4567,7 +4567,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_040046.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_040046.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_040046.html",
-      "checked_at": "2026-10-20T23:14:34+00:00",
+      "checked_at": "2026-10-21T05:00:30+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4620,7 +4620,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_040047.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_040047.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_040047.html",
-      "checked_at": "2026-10-20T23:14:34+00:00",
+      "checked_at": "2026-10-21T05:00:58+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4673,7 +4673,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_040048.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_040048.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_040048.html",
-      "checked_at": "2026-10-20T23:14:35+00:00",
+      "checked_at": "2026-10-21T05:00:33+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4726,7 +4726,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_050025.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_050025.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_050025.html",
-      "checked_at": "2026-10-20T23:14:36+00:00",
+      "checked_at": "2026-10-21T05:00:35+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4779,7 +4779,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_096001.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_096001.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_096001.html",
-      "checked_at": "2026-10-20T23:14:36+00:00",
+      "checked_at": "2026-10-21T05:00:37+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4832,7 +4832,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159501.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159501.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159501.html",
-      "checked_at": "2026-10-20T23:14:37+00:00",
+      "checked_at": "2026-10-21T05:00:37+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4885,7 +4885,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159509.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159509.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159509.html",
-      "checked_at": "2026-10-20T23:14:37+00:00",
+      "checked_at": "2026-10-21T05:01:32+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -4938,12 +4938,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159513.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159513.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159513.html",
-      "checked_at": "2026-10-20T23:14:39+00:00",
+      "checked_at": "2026-10-21T05:00:39+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "d457a73bb884707b"
+      "evidence_hash": "f7b4084f99ee9d50"
     },
     {
       "code": "159612",
@@ -4991,7 +4991,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159612.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159612.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159612.html",
-      "checked_at": "2026-10-20T23:14:39+00:00",
+      "checked_at": "2026-10-21T05:00:41+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5044,12 +5044,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159632.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159632.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159632.html",
-      "checked_at": "2026-10-20T23:14:39+00:00",
+      "checked_at": "2026-10-21T05:01:09+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "c9bfb6627ad914a9"
+      "evidence_hash": "5551ce398fe5d271"
     },
     {
       "code": "159655",
@@ -5097,7 +5097,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159655.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159655.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159655.html",
-      "checked_at": "2026-10-20T23:14:39+00:00",
+      "checked_at": "2026-10-21T05:00:49+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5150,7 +5150,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159659.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159659.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159659.html",
-      "checked_at": "2026-10-20T23:14:41+00:00",
+      "checked_at": "2026-10-21T05:00:52+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5203,7 +5203,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159660.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159660.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159660.html",
-      "checked_at": "2026-10-20T23:14:41+00:00",
+      "checked_at": "2026-10-21T05:00:54+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5256,7 +5256,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159696.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159696.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159696.html",
-      "checked_at": "2026-10-20T23:14:41+00:00",
+      "checked_at": "2026-10-21T05:00:56+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5309,7 +5309,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_159941.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_159941.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_159941.html",
-      "checked_at": "2026-10-20T23:14:42+00:00",
+      "checked_at": "2026-10-21T05:00:58+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5362,7 +5362,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_160213.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_160213.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_160213.html",
-      "checked_at": "2026-10-20T23:14:43+00:00",
+      "checked_at": "2026-10-21T05:01:00+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5415,7 +5415,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_161125.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_161125.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_161125.html",
-      "checked_at": "2026-10-20T23:14:43+00:00",
+      "checked_at": "2026-10-21T05:01:26+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5468,12 +5468,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_161130.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_161130.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_161130.html",
-      "checked_at": "2026-10-20T23:14:43+00:00",
+      "checked_at": "2026-10-21T05:01:28+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "29ca454b1691d7d8"
+      "evidence_hash": "11498098f40bc5f9"
     },
     {
       "code": "270042",
@@ -5521,7 +5521,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_270042.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_270042.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_270042.html",
-      "checked_at": "2026-10-20T23:14:44+00:00",
+      "checked_at": "2026-10-21T05:01:12+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5574,7 +5574,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513100.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513100.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513100.html",
-      "checked_at": "2026-10-20T23:14:46+00:00",
+      "checked_at": "2026-10-21T05:01:40+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5627,7 +5627,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513110.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513110.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513110.html",
-      "checked_at": "2026-10-20T23:14:46+00:00",
+      "checked_at": "2026-10-21T05:01:28+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5680,12 +5680,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513290.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513290.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513290.html",
-      "checked_at": "2026-10-20T23:14:46+00:00",
+      "checked_at": "2026-10-21T05:01:30+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "6e21c05736778dd0"
+      "evidence_hash": "27924c7555161ed9"
     },
     {
       "code": "513300",
@@ -5733,12 +5733,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513300.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513300.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513300.html",
-      "checked_at": "2026-10-20T23:14:46+00:00",
+      "checked_at": "2026-10-21T05:01:30+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "c7515ecf8f28568f"
+      "evidence_hash": "b873f783d911511c"
     },
     {
       "code": "513390",
@@ -5786,12 +5786,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513390.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513390.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513390.html",
-      "checked_at": "2026-10-20T23:14:48+00:00",
+      "checked_at": "2026-10-21T05:01:32+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "27924c7555161ed9"
+      "evidence_hash": "6e21c05736778dd0"
     },
     {
       "code": "513500",
@@ -5839,7 +5839,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513500.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513500.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513500.html",
-      "checked_at": "2026-10-20T23:14:48+00:00",
+      "checked_at": "2026-10-21T05:01:32+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5892,12 +5892,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513650.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513650.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513650.html",
-      "checked_at": "2026-10-20T23:14:49+00:00",
+      "checked_at": "2026-10-21T05:01:35+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "806a2b02beb4eddc"
+      "evidence_hash": "16c3be9e5b07ee7e"
     },
     {
       "code": "513870",
@@ -5945,7 +5945,7 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_513870.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_513870.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_513870.html",
-      "checked_at": "2026-10-20T23:14:49+00:00",
+      "checked_at": "2026-10-21T05:01:35+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
@@ -5998,12 +5998,12 @@
       "source_url": "https://fundf10.eastmoney.com/jjfl_539001.html",
       "profile_url": "https://fundf10.eastmoney.com/jbgk_539001.html",
       "announcements_url": "https://fundf10.eastmoney.com/jjgg_539001.html",
-      "checked_at": "2026-10-20T23:14:51+00:00",
+      "checked_at": "2026-10-21T05:01:35+00:00",
       "source_effective_at": null,
       "health": "ok",
       "error": null,
       "in_catalog": true,
-      "evidence_hash": "dbad178ca98a36cc"
+      "evidence_hash": "774864ddc4ac9e58"
     }
   ]
 }

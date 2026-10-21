@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-10-20T23:14:51+00:00",
+  "updated_at": "2026-10-21T05:01:40+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
   "changes": [
+    {
+      "code": "019441",
+      "name": "万家纳斯达克100指数发起式(QDII)A",
+      "company": "万家基金",
+      "at": "2026-10-21T04:58:29+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "paused",
+          "after": "limited"
+        },
+        "purchase_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        }
+      }
+    },
+    {
+      "code": "019442",
+      "name": "万家纳斯达克100指数发起式(QDII)C",
+      "company": "万家基金",
+      "at": "2026-10-21T04:58:29+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "paused",
+          "after": "limited"
+        },
+        "purchase_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        }
+      }
+    },
     {
       "code": "019441",
       "name": "万家纳斯达克100指数发起式(QDII)A",
