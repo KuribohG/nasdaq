@@ -1,7 +1,7 @@
 {
-  "last_attempt_at": "2026-11-08T15:31:11+00:00",
-  "status": "partial",
-  "collected": 110,
+  "last_attempt_at": "2026-11-08T20:34:34+00:00",
+  "status": "ok",
+  "collected": 113,
   "matched": 113,
   "error": null
 }
