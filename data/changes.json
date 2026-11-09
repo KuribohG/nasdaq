@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-09T06:49:12+00:00",
+  "updated_at": "2026-11-09T18:58:43+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
   "changes": [
+    {
+      "code": "017436",
+      "name": "华宝纳斯达克精选股票发起式(QDII)A",
+      "company": "华宝基金",
+      "at": "2026-11-09T18:53:44+00:00",
+      "changes": {
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 2000.0,
+            "raw": "2000.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 200.0,
+            "raw": "200.00元"
+          }
+        }
+      }
+    },
+    {
+      "code": "017437",
+      "name": "华宝纳斯达克精选股票发起式(QDII)C",
+      "company": "华宝基金",
+      "at": "2026-11-09T18:53:44+00:00",
+      "changes": {
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 2000.0,
+            "raw": "2000.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 200.0,
+            "raw": "200.00元"
+          }
+        }
+      }
+    },
     {
       "code": "019441",
       "name": "万家纳斯达克100指数发起式(QDII)A",
