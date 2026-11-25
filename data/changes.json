@@ -1,7 +1,651 @@
 {
-  "updated_at": "2026-11-25T00:53:56+00:00",
+  "updated_at": "2026-11-25T14:35:58+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
   "changes": [
+    {
+      "code": "008401",
+      "name": "大成标普500等权重指数(QDII)C人民币",
+      "company": "大成基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "008971",
+      "name": "大成纳斯达克100ETF联接(QDII)C",
+      "company": "大成基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "012752",
+      "name": "建信纳斯达克100指数(QDII)C人民币",
+      "company": "建信基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "016452",
+      "name": "南方纳斯达克100指数发起(QDII)A",
+      "company": "南方基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "016453",
+      "name": "南方纳斯达克100指数发起(QDII)C",
+      "company": "南方基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "017436",
+      "name": "华宝纳斯达克精选股票发起式(QDII)A",
+      "company": "华宝基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "017437",
+      "name": "华宝纳斯达克精选股票发起式(QDII)C",
+      "company": "华宝基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "017641",
+      "name": "摩根标普500指数(QDII)人民币A",
+      "company": "摩根基金(中国)",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "017894",
+      "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)人民币A",
+      "company": "汇添富基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "017895",
+      "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)人民币C",
+      "company": "汇添富基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019172",
+      "name": "摩根纳斯达克100指数(QDII)人民币A",
+      "company": "摩根基金(中国)",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019173",
+      "name": "摩根纳斯达克100指数(QDII)人民币C",
+      "company": "摩根基金(中国)",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019305",
+      "name": "摩根标普500指数(QDII)人民币C",
+      "company": "摩根基金(中国)",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019441",
+      "name": "万家纳斯达克100指数发起式(QDII)A",
+      "company": "万家基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019442",
+      "name": "万家纳斯达克100指数发起式(QDII)C",
+      "company": "万家基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019524",
+      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
+      "company": "华泰柏瑞基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019525",
+      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)C",
+      "company": "华泰柏瑞基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019736",
+      "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
+      "company": "宝盈基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "019737",
+      "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
+      "company": "宝盈基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "022664",
+      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)I",
+      "company": "华泰柏瑞基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "023422",
+      "name": "建信纳斯达克100指数(QDII)D人民币",
+      "company": "建信基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "096001",
+      "name": "大成标普500等权重指数(QDII)A人民币",
+      "company": "大成基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
+    {
+      "code": "539001",
+      "name": "建信纳斯达克100指数(QDII)A人民币",
+      "company": "建信基金",
+      "at": "2026-11-25T14:32:32+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "limited",
+          "after": "paused"
+        },
+        "sip_status": {
+          "before": "available",
+          "after": "unsupported"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          }
+        }
+      }
+    },
     {
       "code": "017436",
       "name": "华宝纳斯达克精选股票发起式(QDII)A",
