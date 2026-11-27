@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-26T14:02:29+00:00",
+  "updated_at": "2026-11-27T00:43:01+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
   "changes": [
+    {
+      "code": "000834",
+      "name": "大成纳斯达克100ETF联接(QDII)A",
+      "company": "大成基金",
+      "at": "2026-11-27T00:39:04+00:00",
+      "changes": {
+        "purchase_status": {
+          "before": "paused",
+          "after": "limited"
+        },
+        "sip_status": {
+          "before": "unsupported",
+          "after": "available"
+        },
+        "sip_min": {
+          "before": {
+            "kind": "unknown",
+            "value": null,
+            "raw": "---"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          }
+        }
+      }
+    },
     {
       "code": "008401",
       "name": "大成标普500等权重指数(QDII)C人民币",
