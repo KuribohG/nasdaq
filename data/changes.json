@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-11-27T00:43:01+00:00",
+  "updated_at": "2026-11-27T14:04:45+00:00",
   "baseline_at": "2026-10-08T05:10:46+00:00",
   "changes": [
+    {
+      "code": "000834",
+      "name": "大成纳斯达克100ETF联接(QDII)A",
+      "company": "大成基金",
+      "at": "2026-11-27T13:58:04+00:00",
+      "changes": {
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        },
+        "purchase_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        }
+      }
+    },
+    {
+      "code": "008971",
+      "name": "大成纳斯达克100ETF联接(QDII)C",
+      "company": "大成基金",
+      "at": "2026-11-27T13:58:04+00:00",
+      "changes": {
+        "purchase_limit": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        },
+        "purchase_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        },
+        "sip_min": {
+          "before": {
+            "kind": "amount",
+            "value": 10.0,
+            "raw": "10.00元"
+          },
+          "after": {
+            "kind": "amount",
+            "value": 5.0,
+            "raw": "5.00元"
+          }
+        }
+      }
+    },
     {
       "code": "000834",
       "name": "大成纳斯达克100ETF联接(QDII)A",
